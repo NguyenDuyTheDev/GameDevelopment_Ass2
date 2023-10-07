@@ -1,0 +1,5 @@
+﻿  Game_Development_Assignment_2.cpp
+C:\Users\Admin\source\repos\Game_Development_Assignment_2\Game_Development_Assignment_2.cpp(624,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LTimer.cpp
+  Generating Code...
+  Game_Development_Assignment_2.vcxproj -> C:\Users\Admin\source\repos\Game_Development_Assignment_2\x64\Debug\Game_Development_Assignment_2.exe
